@@ -632,7 +632,7 @@ h3 {
 
 .photo-strip {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(18rem, 1fr));
   gap: 0.7rem;
   margin-top: 1.5rem;
 }
@@ -655,6 +655,14 @@ h3 {
 
 .crop-top {
   object-position: center 16%;
+}
+
+.crop-rack {
+  object-position: center 32%;
+}
+
+.crop-bottom {
+  object-position: center 82%;
 }
 
 .content-photo {
