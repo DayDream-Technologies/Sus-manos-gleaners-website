@@ -420,6 +420,36 @@ h3 {
   font-size: 0.95rem;
 }
 
+.served-map {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 960 / 435;
+  margin: 0.25rem 0 0;
+  border: 0;
+  background: var(--parchment);
+}
+
+.served-countries {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 0;
+  padding: 0;
+}
+
+.served-countries li,
+.prose .served-countries li {
+  margin: 0;
+  background: var(--white);
+  border: 1px solid var(--line);
+  border-left: 4px solid var(--amber);
+  color: var(--slate);
+  font-weight: 600;
+  padding: 0.3rem 0.7rem;
+}
+
 /* Cards */
 .card-grid {
   display: grid;
