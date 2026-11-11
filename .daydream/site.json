@@ -1,0 +1,243 @@
+{
+  "framework": "static-html",
+  "packageManager": "npm",
+  "commands": {
+    "build": null,
+    "lint": null,
+    "typecheck": null
+  },
+  "hosting": {
+    "productionBranch": "main",
+    "liveUrl": null,
+    "amplifyAppId": null,
+    "amplifyReady": true
+  },
+  "editable": [
+    "**/*.html",
+    "**/*.htm",
+    "**/*.css",
+    "**/*.js",
+    "**/*.{png,jpg,jpeg,webp,svg,gif}"
+  ],
+  "protected": [
+    "infra/**",
+    "api/**",
+    "server/**",
+    "scripts/**",
+    ".github/**",
+    ".daydream/**",
+    "package.json",
+    "package-lock.json",
+    "amplify.yml",
+    "next.config.ts",
+    "next.config.js",
+    "vite.config.ts",
+    "vite.config.js"
+  ],
+  "contentHubs": [],
+  "facts": [
+    {
+      "kind": "phone",
+      "value": "(616) 260-4282",
+      "file": "about-us.html",
+      "line": 142
+    },
+    {
+      "kind": "email",
+      "value": "director@smgleaners.org",
+      "file": "about-us.html",
+      "line": 143
+    },
+    {
+      "kind": "email",
+      "value": "director@smgleaners.org",
+      "file": "about-us.html",
+      "line": 143
+    },
+    {
+      "kind": "phone",
+      "value": "(616) 260-4282",
+      "file": "contact.html",
+      "line": 7
+    },
+    {
+      "kind": "email",
+      "value": "director@smgleaners.org",
+      "file": "contact.html",
+      "line": 7
+    },
+    {
+      "kind": "phone",
+      "value": "(616) 260-4282",
+      "file": "contact.html",
+      "line": 85
+    },
+    {
+      "kind": "email",
+      "value": "director@smgleaners.org",
+      "file": "contact.html",
+      "line": 86
+    },
+    {
+      "kind": "email",
+      "value": "director@smgleaners.org",
+      "file": "contact.html",
+      "line": 86
+    },
+    {
+      "kind": "email",
+      "value": "director@smgleaners.org",
+      "file": "contact.html",
+      "line": 94
+    },
+    {
+      "kind": "email",
+      "value": "director@smgleaners.org",
+      "file": "contact.html",
+      "line": 95
+    },
+    {
+      "kind": "phone",
+      "value": "(616) 260-4282",
+      "file": "contact.html",
+      "line": 123
+    },
+    {
+      "kind": "email",
+      "value": "director@smgleaners.org",
+      "file": "contact.html",
+      "line": 124
+    },
+    {
+      "kind": "email",
+      "value": "director@smgleaners.org",
+      "file": "contact.html",
+      "line": 124
+    },
+    {
+      "kind": "email",
+      "value": "director@smgleaners.org",
+      "file": "get-involved.html",
+      "line": 96
+    },
+    {
+      "kind": "email",
+      "value": "director@smgleaners.org",
+      "file": "get-involved.html",
+      "line": 129
+    },
+    {
+      "kind": "email",
+      "value": "director@smgleaners.org",
+      "file": "get-involved.html",
+      "line": 130
+    },
+    {
+      "kind": "phone",
+      "value": "(616) 260-4282",
+      "file": "get-involved.html",
+      "line": 190
+    },
+    {
+      "kind": "email",
+      "value": "director@smgleaners.org",
+      "file": "get-involved.html",
+      "line": 191
+    },
+    {
+      "kind": "email",
+      "value": "director@smgleaners.org",
+      "file": "get-involved.html",
+      "line": 191
+    },
+    {
+      "kind": "phone",
+      "value": "(616) 260-4282",
+      "file": "give.html",
+      "line": 100
+    },
+    {
+      "kind": "email",
+      "value": "director@smgleaners.org",
+      "file": "give.html",
+      "line": 101
+    },
+    {
+      "kind": "email",
+      "value": "director@smgleaners.org",
+      "file": "give.html",
+      "line": 101
+    },
+    {
+      "kind": "phone",
+      "value": "(616) 260-4282",
+      "file": "impact.html",
+      "line": 154
+    },
+    {
+      "kind": "email",
+      "value": "director@smgleaners.org",
+      "file": "impact.html",
+      "line": 155
+    },
+    {
+      "kind": "email",
+      "value": "director@smgleaners.org",
+      "file": "impact.html",
+      "line": 155
+    },
+    {
+      "kind": "phone",
+      "value": "(616) 260-4282",
+      "file": "index.html",
+      "line": 181
+    },
+    {
+      "kind": "email",
+      "value": "director@smgleaners.org",
+      "file": "index.html",
+      "line": 182
+    },
+    {
+      "kind": "email",
+      "value": "director@smgleaners.org",
+      "file": "index.html",
+      "line": 182
+    },
+    {
+      "kind": "email",
+      "value": "director@smgleaners.org",
+      "file": "scraped/content.json",
+      "line": 5
+    },
+    {
+      "kind": "phone",
+      "value": "616-260-4282",
+      "file": "scraped/content.json",
+      "line": 6
+    },
+    {
+      "kind": "phone",
+      "value": "(616) 260-4282",
+      "file": "what-we-do.html",
+      "line": 189
+    },
+    {
+      "kind": "email",
+      "value": "director@smgleaners.org",
+      "file": "what-we-do.html",
+      "line": 190
+    },
+    {
+      "kind": "email",
+      "value": "director@smgleaners.org",
+      "file": "what-we-do.html",
+      "line": 190
+    }
+  ],
+  "limits": {
+    "maxFiles": 25,
+    "maxDiffLines": 500
+  },
+  "contentMap": "# Content map\r\n\r\nEach page is its own HTML file. The header is repeated in every page. Styles are `css/styles.css`. Shared behavior is `js/main.js`. Photos and the logo are under `images/deck/logo-horizontal.png`.\r\n\r\n- Home is `index.html`.\r\n- About, staff titles, and the board list are in `about-us.html`. A person's title is the role line inside that person's card.\r\n- What we do is `what-we-do.html`.\r\n- Get involved is `get-involved.html`.\r\n- Impact is `impact.html`.\r\n- Contact is `contact.html`.\r\n- Donate is `give.html`.\r\n- News is `news.html`.\r\n- Events is `events-1.html`.\r\n\r\nThere is no separate data file for posts, staff, or events. Add a news item in `news.html`. Add a staff member by adding a card in `about-us.html`.\r\n"
+}
