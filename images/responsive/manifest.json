@@ -1,0 +1,670 @@
+[
+  {
+    "source": "images/deck/apple-crates-trailer.jpg",
+    "width": 640,
+    "height": 480,
+    "files": [
+      {
+        "width": 640,
+        "name": "apple-crates-trailer-640.webp"
+      }
+    ]
+  },
+  {
+    "source": "images/deck/apples-intake.jpg",
+    "width": 568,
+    "height": 628,
+    "files": [
+      {
+        "width": 568,
+        "name": "apples-intake-568.webp"
+      }
+    ]
+  },
+  {
+    "source": "images/deck/children-scooping-dried.jpg",
+    "width": 480,
+    "height": 640,
+    "files": [
+      {
+        "width": 480,
+        "name": "children-scooping-dried-480.webp"
+      }
+    ]
+  },
+  {
+    "source": "images/deck/container-loaded-with-crew.jpg",
+    "width": 482,
+    "height": 640,
+    "files": [
+      {
+        "width": 482,
+        "name": "container-loaded-with-crew-482.webp"
+      }
+    ]
+  },
+  {
+    "source": "images/deck/dehydrator-rack-loading.jpg",
+    "width": 480,
+    "height": 640,
+    "files": [
+      {
+        "width": 480,
+        "name": "dehydrator-rack-loading-480.webp"
+      }
+    ]
+  },
+  {
+    "source": "images/deck/family-dehydrator.jpg",
+    "width": 855,
+    "height": 628,
+    "files": [
+      {
+        "width": 640,
+        "name": "family-dehydrator-640.webp"
+      },
+      {
+        "width": 855,
+        "name": "family-dehydrator-855.webp"
+      }
+    ]
+  },
+  {
+    "source": "images/deck/field-children-meal.jpg",
+    "width": 780,
+    "height": 1040,
+    "files": [
+      {
+        "width": 640,
+        "name": "field-children-meal-640.webp"
+      },
+      {
+        "width": 780,
+        "name": "field-children-meal-780.webp"
+      }
+    ]
+  },
+  {
+    "source": "images/deck/field-dried-seasonings.jpg",
+    "width": 607,
+    "height": 1080,
+    "files": [
+      {
+        "width": 607,
+        "name": "field-dried-seasonings-607.webp"
+      }
+    ]
+  },
+  {
+    "source": "images/deck/field-girls-plates.jpg",
+    "width": 780,
+    "height": 1040,
+    "files": [
+      {
+        "width": 640,
+        "name": "field-girls-plates-640.webp"
+      },
+      {
+        "width": 780,
+        "name": "field-girls-plates-780.webp"
+      }
+    ]
+  },
+  {
+    "source": "images/deck/hands-diced-produce.jpg",
+    "width": 522,
+    "height": 628,
+    "files": [
+      {
+        "width": 522,
+        "name": "hands-diced-produce-522.webp"
+      }
+    ]
+  },
+  {
+    "source": "images/deck/pallets-wrapped.jpg",
+    "width": 640,
+    "height": 480,
+    "files": [
+      {
+        "width": 640,
+        "name": "pallets-wrapped-640.webp"
+      }
+    ]
+  },
+  {
+    "source": "images/deck/volunteer-group-cornerstone.jpg",
+    "width": 2000,
+    "height": 1500,
+    "files": [
+      {
+        "width": 640,
+        "name": "volunteer-group-cornerstone-640.webp"
+      },
+      {
+        "width": 1024,
+        "name": "volunteer-group-cornerstone-1024.webp"
+      },
+      {
+        "width": 1600,
+        "name": "volunteer-group-cornerstone-1600.webp"
+      },
+      {
+        "width": 2000,
+        "name": "volunteer-group-cornerstone-2000.webp"
+      }
+    ]
+  },
+  {
+    "source": "images/deck/volunteer-seated-prep.jpg",
+    "width": 1144,
+    "height": 738,
+    "files": [
+      {
+        "width": 640,
+        "name": "volunteer-seated-prep-640.webp"
+      },
+      {
+        "width": 1024,
+        "name": "volunteer-seated-prep-1024.webp"
+      },
+      {
+        "width": 1144,
+        "name": "volunteer-seated-prep-1144.webp"
+      }
+    ]
+  },
+  {
+    "source": "images/deck/volunteers-apples-line.jpg",
+    "width": 1574,
+    "height": 652,
+    "files": [
+      {
+        "width": 640,
+        "name": "volunteers-apples-line-640.webp"
+      },
+      {
+        "width": 1024,
+        "name": "volunteers-apples-line-1024.webp"
+      },
+      {
+        "width": 1574,
+        "name": "volunteers-apples-line-1574.webp"
+      }
+    ]
+  },
+  {
+    "source": "images/deck/volunteers-carrot-trays.jpg",
+    "width": 480,
+    "height": 640,
+    "files": [
+      {
+        "width": 480,
+        "name": "volunteers-carrot-trays-480.webp"
+      }
+    ]
+  },
+  {
+    "source": "images/deck/volunteers-coring-apples.jpg",
+    "width": 2000,
+    "height": 2667,
+    "files": [
+      {
+        "width": 640,
+        "name": "volunteers-coring-apples-640.webp"
+      },
+      {
+        "width": 1024,
+        "name": "volunteers-coring-apples-1024.webp"
+      },
+      {
+        "width": 1600,
+        "name": "volunteers-coring-apples-1600.webp"
+      },
+      {
+        "width": 2000,
+        "name": "volunteers-coring-apples-2000.webp"
+      }
+    ]
+  },
+  {
+    "source": "images/deck/volunteers-greens.jpg",
+    "width": 568,
+    "height": 628,
+    "files": [
+      {
+        "width": 568,
+        "name": "volunteers-greens-568.webp"
+      }
+    ]
+  },
+  {
+    "source": "images/deck/volunteers-spreading-trays.jpg",
+    "width": 855,
+    "height": 628,
+    "files": [
+      {
+        "width": 640,
+        "name": "volunteers-spreading-trays-640.webp"
+      },
+      {
+        "width": 855,
+        "name": "volunteers-spreading-trays-855.webp"
+      }
+    ]
+  },
+  {
+    "source": "images/deck/volunteers-squash-line.jpg",
+    "width": 1386,
+    "height": 628,
+    "files": [
+      {
+        "width": 640,
+        "name": "volunteers-squash-line-640.webp"
+      },
+      {
+        "width": 1024,
+        "name": "volunteers-squash-line-1024.webp"
+      },
+      {
+        "width": 1386,
+        "name": "volunteers-squash-line-1386.webp"
+      }
+    ]
+  },
+  {
+    "source": "images/gallery/01-IMG_5021.jpg",
+    "width": 1200,
+    "height": 900,
+    "files": [
+      {
+        "width": 640,
+        "name": "01-IMG_5021-640.webp"
+      },
+      {
+        "width": 1024,
+        "name": "01-IMG_5021-1024.webp"
+      },
+      {
+        "width": 1200,
+        "name": "01-IMG_5021-1200.webp"
+      }
+    ]
+  },
+  {
+    "source": "images/gallery/02-IMG_5684.jpg",
+    "width": 1200,
+    "height": 900,
+    "files": [
+      {
+        "width": 640,
+        "name": "02-IMG_5684-640.webp"
+      },
+      {
+        "width": 1024,
+        "name": "02-IMG_5684-1024.webp"
+      },
+      {
+        "width": 1200,
+        "name": "02-IMG_5684-1200.webp"
+      }
+    ]
+  },
+  {
+    "source": "images/gallery/03-IMG_4879.jpg",
+    "width": 1200,
+    "height": 900,
+    "files": [
+      {
+        "width": 640,
+        "name": "03-IMG_4879-640.webp"
+      },
+      {
+        "width": 1024,
+        "name": "03-IMG_4879-1024.webp"
+      },
+      {
+        "width": 1200,
+        "name": "03-IMG_4879-1200.webp"
+      }
+    ]
+  },
+  {
+    "source": "images/gallery/04-IMG_6994.jpg",
+    "width": 1200,
+    "height": 900,
+    "files": [
+      {
+        "width": 640,
+        "name": "04-IMG_6994-640.webp"
+      },
+      {
+        "width": 1024,
+        "name": "04-IMG_6994-1024.webp"
+      },
+      {
+        "width": 1200,
+        "name": "04-IMG_6994-1200.webp"
+      }
+    ]
+  },
+  {
+    "source": "images/gallery/05-IMG_5708.jpg",
+    "width": 1200,
+    "height": 900,
+    "files": [
+      {
+        "width": 640,
+        "name": "05-IMG_5708-640.webp"
+      },
+      {
+        "width": 1024,
+        "name": "05-IMG_5708-1024.webp"
+      },
+      {
+        "width": 1200,
+        "name": "05-IMG_5708-1200.webp"
+      }
+    ]
+  },
+  {
+    "source": "images/gallery/06-IMG_5749.jpg",
+    "width": 1200,
+    "height": 900,
+    "files": [
+      {
+        "width": 640,
+        "name": "06-IMG_5749-640.webp"
+      },
+      {
+        "width": 1024,
+        "name": "06-IMG_5749-1024.webp"
+      },
+      {
+        "width": 1200,
+        "name": "06-IMG_5749-1200.webp"
+      }
+    ]
+  },
+  {
+    "source": "images/gallery/07-IMG_7802.jpg",
+    "width": 1200,
+    "height": 900,
+    "files": [
+      {
+        "width": 640,
+        "name": "07-IMG_7802-640.webp"
+      },
+      {
+        "width": 1024,
+        "name": "07-IMG_7802-1024.webp"
+      },
+      {
+        "width": 1200,
+        "name": "07-IMG_7802-1200.webp"
+      }
+    ]
+  },
+  {
+    "source": "images/gallery/08-IMG_6283.jpg",
+    "width": 1200,
+    "height": 900,
+    "files": [
+      {
+        "width": 640,
+        "name": "08-IMG_6283-640.webp"
+      },
+      {
+        "width": 1024,
+        "name": "08-IMG_6283-1024.webp"
+      },
+      {
+        "width": 1200,
+        "name": "08-IMG_6283-1200.webp"
+      }
+    ]
+  },
+  {
+    "source": "images/gallery/09-Produce.jpg",
+    "width": 1200,
+    "height": 900,
+    "files": [
+      {
+        "width": 640,
+        "name": "09-Produce-640.webp"
+      },
+      {
+        "width": 1024,
+        "name": "09-Produce-1024.webp"
+      },
+      {
+        "width": 1200,
+        "name": "09-Produce-1200.webp"
+      }
+    ]
+  },
+  {
+    "source": "images/gallery/10-IMG_5583.jpg",
+    "width": 1200,
+    "height": 900,
+    "files": [
+      {
+        "width": 640,
+        "name": "10-IMG_5583-640.webp"
+      },
+      {
+        "width": 1024,
+        "name": "10-IMG_5583-1024.webp"
+      },
+      {
+        "width": 1200,
+        "name": "10-IMG_5583-1200.webp"
+      }
+    ]
+  },
+  {
+    "source": "images/gallery/11-IMG_4892.jpg",
+    "width": 1200,
+    "height": 900,
+    "files": [
+      {
+        "width": 640,
+        "name": "11-IMG_4892-640.webp"
+      },
+      {
+        "width": 1024,
+        "name": "11-IMG_4892-1024.webp"
+      },
+      {
+        "width": 1200,
+        "name": "11-IMG_4892-1200.webp"
+      }
+    ]
+  },
+  {
+    "source": "images/gallery/12-IMG_5348.jpg",
+    "width": 1200,
+    "height": 900,
+    "files": [
+      {
+        "width": 640,
+        "name": "12-IMG_5348-640.webp"
+      },
+      {
+        "width": 1024,
+        "name": "12-IMG_5348-1024.webp"
+      },
+      {
+        "width": 1200,
+        "name": "12-IMG_5348-1200.webp"
+      }
+    ]
+  },
+  {
+    "source": "images/gallery/13-IMG_5805.jpg",
+    "width": 1200,
+    "height": 900,
+    "files": [
+      {
+        "width": 640,
+        "name": "13-IMG_5805-640.webp"
+      },
+      {
+        "width": 1024,
+        "name": "13-IMG_5805-1024.webp"
+      },
+      {
+        "width": 1200,
+        "name": "13-IMG_5805-1200.webp"
+      }
+    ]
+  },
+  {
+    "source": "images/gallery/14-Ready-for-Oven.jpg",
+    "width": 1200,
+    "height": 900,
+    "files": [
+      {
+        "width": 640,
+        "name": "14-Ready-for-Oven-640.webp"
+      },
+      {
+        "width": 1024,
+        "name": "14-Ready-for-Oven-1024.webp"
+      },
+      {
+        "width": 1200,
+        "name": "14-Ready-for-Oven-1200.webp"
+      }
+    ]
+  },
+  {
+    "source": "images/gallery/15-IMG_4881.jpg",
+    "width": 1200,
+    "height": 900,
+    "files": [
+      {
+        "width": 640,
+        "name": "15-IMG_4881-640.webp"
+      },
+      {
+        "width": 1024,
+        "name": "15-IMG_4881-1024.webp"
+      },
+      {
+        "width": 1200,
+        "name": "15-IMG_4881-1200.webp"
+      }
+    ]
+  },
+  {
+    "source": "images/gallery/16-Step5-Spreading.jpg",
+    "width": 1200,
+    "height": 900,
+    "files": [
+      {
+        "width": 640,
+        "name": "16-Step5-Spreading-640.webp"
+      },
+      {
+        "width": 1024,
+        "name": "16-Step5-Spreading-1024.webp"
+      },
+      {
+        "width": 1200,
+        "name": "16-Step5-Spreading-1200.webp"
+      }
+    ]
+  },
+  {
+    "source": "images/about-banner.jpg",
+    "width": 1600,
+    "height": 666,
+    "files": [
+      {
+        "width": 640,
+        "name": "about-banner-640.webp"
+      },
+      {
+        "width": 1024,
+        "name": "about-banner-1024.webp"
+      },
+      {
+        "width": 1600,
+        "name": "about-banner-1600.webp"
+      }
+    ]
+  },
+  {
+    "source": "images/contact-banner.jpg",
+    "width": 1600,
+    "height": 667,
+    "files": [
+      {
+        "width": 640,
+        "name": "contact-banner-640.webp"
+      },
+      {
+        "width": 1024,
+        "name": "contact-banner-1024.webp"
+      },
+      {
+        "width": 1600,
+        "name": "contact-banner-1600.webp"
+      }
+    ]
+  },
+  {
+    "source": "images/get-involved-banner.jpg",
+    "width": 1600,
+    "height": 667,
+    "files": [
+      {
+        "width": 640,
+        "name": "get-involved-banner-640.webp"
+      },
+      {
+        "width": 1024,
+        "name": "get-involved-banner-1024.webp"
+      },
+      {
+        "width": 1600,
+        "name": "get-involved-banner-1600.webp"
+      }
+    ]
+  },
+  {
+    "source": "images/news-banner.jpg",
+    "width": 1600,
+    "height": 666,
+    "files": [
+      {
+        "width": 640,
+        "name": "news-banner-640.webp"
+      },
+      {
+        "width": 1024,
+        "name": "news-banner-1024.webp"
+      },
+      {
+        "width": 1600,
+        "name": "news-banner-1600.webp"
+      }
+    ]
+  },
+  {
+    "source": "images/news-sidecar.jpg",
+    "width": 800,
+    "height": 1120,
+    "files": [
+      {
+        "width": 640,
+        "name": "news-sidecar-640.webp"
+      },
+      {
+        "width": 800,
+        "name": "news-sidecar-800.webp"
+      }
+    ]
+  }
+]
